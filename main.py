@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-path:str = 'D:\\4 курс\\Информационные хранилища и аналитические системы\\lab1\\var3\\'
+path:str = 'D:\\4 курс\\Информационные хранилища и аналитические системы\\lab\\resources\\lab1\\'
 pd.set_option('display.width', None)#отменить усечение столбцов; полный вывод всех столбцов
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_colwidth', None)

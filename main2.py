@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-path:str = 'D:\\4 курс\\Информационные хранилища и аналитические системы\\lab2\\var3\\'
+path:str = 'D:\\4 курс\\Информационные хранилища и аналитические системы\\lab\\resources\\lab2\\'
 pd.set_option('display.width', None)#отменить усечение столбцов; полный вывод всех столбцов
 pd.set_option('display.max_columns', None)
 
